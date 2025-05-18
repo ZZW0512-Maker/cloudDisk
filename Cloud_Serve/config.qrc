@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>serve.cfg</file>
+        <file>db.cfg</file>
+    </qresource>
+</RCC>
